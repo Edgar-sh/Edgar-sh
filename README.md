@@ -8,9 +8,12 @@
 - ☕ **Java** (com foco em **Spring Boot** e **Javalin**)  
 - 🌐 **HTML & CSS** para web  
 - 🐧 **Customização no Linux** e ferramentas open source  
-- 🎬 **Edição criativa** com GIMP e After Effects  
+- 🎬 **Edição criativa** com GIMP e After Effects
+
 
 ## 🚀 Tecnologias e Ferramentas  
+
+<img src="neofetch_si_is_my_passion.png" alt="Banner" width="550" height="200" align="right">
 
 <div style="display: inline_block"><br>
   <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
