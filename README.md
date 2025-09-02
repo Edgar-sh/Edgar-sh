@@ -13,7 +13,7 @@
 
 ## 🚀 Tecnologias e Ferramentas  
 
-<img src="neofetch_si_is_my_passion.png" alt="Banner" width="510" height="170" align="right">
+<img src="neofetch_si_is_my_passion.png" alt="Banner" width="550" height="220" align="right">
 
 <div style="display: inline_block"><br>
   <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
