@@ -1,10 +1,8 @@
 # 👋 Olá, eu sou o Edgar Henrique  
-
+---
 🎓 Estudante de **Sistemas de Informação** na UFPB  
 💻 Apaixonado por **desenvolvimento backend** e **Linux**  
 🎨 Curto trabalhar com **design gráfico** (GIMP) e **edição de vídeos** (After Effects)  
-
----
 
 ## 🌱 Atualmente aprendendo  
 - ☕ **Java** (com foco em **Spring Boot** e **Javalin**)  
@@ -12,7 +10,6 @@
 - 🐧 **Customização no Linux** e ferramentas open source  
 - 🎬 **Edição criativa** com GIMP e After Effects  
 
----
 ## 🚀 Tecnologias e Ferramentas  
 
 <div style="display: inline_block"><br>
@@ -39,13 +36,13 @@
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
----
+
 
 ## 📌 Sobre mim  
 Sou curioso e gosto de unir a lógica da programação com a criatividade do design.  
 Entre linhas de código, customizações no Linux e experimentos em design e edição de vídeo, estou sempre em busca de aprender algo novo e transformar ideias em projetos.  
 
----
+
 
 ## 📷 Redes Sociais  
 
