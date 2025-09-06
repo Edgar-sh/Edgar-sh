@@ -58,6 +58,6 @@ Entre linhas de código, customizações no Linux e experimentos em design e edi
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-sh&layout=compact">  
-  <img src="https://streak-stats.demolab.com?user=Edgar-sh&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-sh&layout=compact&bg_color=1e1e2e&title_color=f5c2e7&text_color=cdd6f4&icon_color=94e2d5&hide_border=true">  
+<img src="https://streak-stats.demolab.com?user=Edgar-sh&hide_border=true&background=1e1e2e&stroke=89b4fa&ring=f5c2e7&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=94e2d5&sideLabels=f5c2e7&dates=bac2de">
 </p>
