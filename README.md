@@ -1,15 +1,26 @@
 # 👋 Olá, eu sou o Edgar Henrique  
 ---
-🎓 Estudante de **Sistemas de Informação** na UFPB  
-💻 Apaixonado por **desenvolvimento backend** e **Linux**  
-🎨 Curto trabalhar com **design gráfico** (GIMP) e **edição de vídeos** (After Effects)  
-
-## 🌱 Atualmente aprendendo  
-- ☕ **Java** (com foco em **Spring Boot** e **Javalin**)  
-- 🌐 **HTML & CSS** para web  
-- 🐧 **Customização no Linux** e ferramentas open source  
-- 🎬 **Edição criativa** com GIMP e After Effects
-
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎓 Sobre Mim</h3>
+      <ul>
+        <li>Estudante de <strong>Sistemas de Informação</strong> na UFPB</li>
+        <li>Apaixonado por <strong>desenvolvimento backend</strong> e <strong>Linux</strong></li>
+        <li>Curto trabalhar com <strong>design gráfico</strong> (GIMP) e <strong>edição de vídeos</strong> (After Effects)</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌱 Atualmente Aprendendo</h3>
+      <ul>
+        <li>☕ <strong>Java</strong> (com foco em <strong>Spring Boot</strong> e <strong>Javalin</strong>)</li>
+        <li>🌐 <strong>HTML & CSS</strong> para web</li>
+        <li>🐧 <strong>Customização no Linux</strong> e ferramentas open source</li>
+        <li>🎬 <strong>Edição criativa</strong> com GIMP e After Effects</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Tecnologias e Ferramentas  
 
