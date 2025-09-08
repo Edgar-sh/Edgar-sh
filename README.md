@@ -50,22 +50,6 @@
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 
-
-## 📌 Sobre mim  
-Sou curioso e gosto de unir a lógica da programação com a criatividade do design.  
-Entre linhas de código, customizações no Linux e experimentos em design e edição de vídeo, estou sempre em busca de aprender algo novo e transformar ideias em projetos.  
-
-
-
-## 📷 Redes Sociais  
-
-✨ Confira minhas edições no Instagram:  
-[![Instagram Edições](https://img.shields.io/badge/@anisho.who-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anisho.who/)  
-
-🙋‍♂️ Meu Instagram pessoal:  
-[![Instagram Pessoal](https://img.shields.io/badge/@henriqueapenas__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriqueapenas_/)
-
-
 ## 📊 Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-sh&layout=compact&bg_color=1e1e2e&title_color=f5c2e7&text_color=cdd6f4&icon_color=94e2d5&hide_border=true">  
