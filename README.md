@@ -25,7 +25,6 @@
 ## 🚀 Tecnologias e Ferramentas  
 
 <img src="neofetch_si_is_my_passion.gif" alt="Banner" width="550" height="220" align="right">
-
 <div style="display: inline_block"><br>
   <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" title="Spring" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
