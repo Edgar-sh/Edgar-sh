@@ -13,7 +13,7 @@
     <td valign="top" width="50%">
       <h3>🌱 Atualmente Aprendendo</h3>
       <ul>
-        <li>☕ <strong>Java</strong> (com foco em <strong>Spring Boot</strong> e <strong>Javalin</strong>)</li>
+        <li>☕ <strong>Java</strong> (com foco em <strong>Spring Boot</strong>)</li>
         <li>🌐 <strong>HTML & CSS</strong> para web</li>
         <li>🐧 <strong>Customização no Linux</strong> e ferramentas open source</li>
         <li>🎬 <strong>Edição criativa</strong> com GIMP e After Effects</li>
