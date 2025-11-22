@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Edgar Henrique  
 ---
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td valign="top" width="50%">
       <h3>🎓 Sobre Mim</h3>
@@ -20,7 +20,7 @@
       </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 ## 🚀 Tecnologias e Ferramentas  
 
